@@ -1,9 +1,9 @@
 # gerador-de-senhas
 
 Esse projeto é um gerador automático de senhas de forma randômica, com todas as letras do alfabeto, números e caracteres especiais.
-Criei com um botão para gerar a senha, e um outro botão para copiar a senha gerada.
+Criei com um botão para gerar a senha e, um outro botão para copiar a senha gerada.
 
-Com o JavaScript eu criei uma variável "senha" para definir o tamanho dela, e dentro da função de gerar senha coloquei um loop que vai sempre passar pela senha, de forma randômica, até formar 12 caracteres e disponibilizá-la para copiar.
+Com o JavaScript eu criei uma variável "senha" para definir o tamanho dele e, dentro da função de gerar senha coloquei um loop que vai sempre passar pela senha, de forma randômica, até formar 12 caracteres e disponibilizá-la para copiar.
 
 link para acessar o projeto:
 
