@@ -3,7 +3,8 @@
 Esse projeto é um gerador automático de senhas de forma randômica, com todas as letras do alfabeto, números e caracteres especiais.
 Criei com um botão para gerar a senha e, um outro botão para copiar a senha gerada.
 
-Com o JavaScript eu criei uma variável "senha" para definir o tamanho dela e, dentro da função de gerar senha coloquei um loop que vai sempre passar pela senha de forma randômica, até formar 12 caracteres e disponibilizá-la para copiar.
+O Objetivo do projeto era me desafiar mais tecnicamente no JavaScript, então para criar a senha eu criei uma variável chamada "senha" para definir o tamanho dela, dentro da função de "gerarSenha" coloquei um loop que vai sempre passar pela senha de forma randômica, até formar 12 caracteres e disponibilizá-la para copiar.
+
 
 link para acessar o projeto: https://eloquent-palmier-626866.netlify.app/
 
